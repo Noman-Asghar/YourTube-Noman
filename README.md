@@ -1,12 +1,40 @@
-# React + Vite
+# 🎬 YourTube - Noman
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive YouTube clone built with **React**, **Tailwind CSS**, and **Vite**, using the **YouTube Data API v3**. The application allows users to:
 
-Currently, two official plugins are available:
+- Search and watch videos
+- Explore categories like Gaming, Music, Sports, etc.
+- View recommended videos while watching
+- Browse with a responsive sidebar that adapts to screen sizes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[🔗 Click here to view the live site](https://your-deployed-url.com)
+
+---
+
+
+## ⚙️ Features
+
+- 🔍 **Search Functionality**
+- 📺 **Video Playback**
+- 🧭 **Category Filtering**
+- 📱 **Fully Responsive Design**
+- 📚 **Recommended Videos**
+- 🧑‍💼 **Static Subscribers List (Sidebar)**
+
+---
+
+## 🧰 Tech Stack
+
+| Tech        | Usage              |
+|-------------|--------------------|
+| React       | Front-end Framework |
+| Vite        | Fast Development Server |
+| Tailwind CSS| Styling            |
+| Axios       | API Requests       |
+| React Router| Routing            |
+| YouTube Data API v3 | Fetching Videos |
+
